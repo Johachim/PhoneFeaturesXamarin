@@ -12,6 +12,22 @@
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand"
                 TextColor="Black" />
+        
+        <Label
+            x:Name="LabelBrowser"
+            Margin="20"
+            FontSize="Subtitle"
+            HorizontalOptions="Center"
+            Text="Google it"
+            TextColor="Blue"
+            TextDecorations="Underline"
+            BackgroundColor="FloralWhite">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="LabelBrowserTapped" />
+            </Label.GestureRecognizers>
+        </Label> 
+            
+            
     </StackLayout>
 
 </ContentPage>

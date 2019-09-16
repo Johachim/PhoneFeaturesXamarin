@@ -47,6 +47,11 @@ namespace PhoneFeatures
         {
             SetBackground(e.ChargeLevel, e.State == BatteryState.Charging);
         }
+
+        private async void LabelBrowserTapped(object sender, EventArgs e)
+        {
+            await Browser.OpenAsync("http://google.com", BrowserLaunchMode.SystemPreferred);
+        }
         void SetBackground(double level, bool charging)
         {
             Color? color = null;
