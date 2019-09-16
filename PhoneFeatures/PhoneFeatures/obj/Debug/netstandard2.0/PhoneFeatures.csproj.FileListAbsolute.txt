@@ -1,0 +1,12 @@
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\bin\Debug\netstandard2.0\PhoneFeatures.deps.json
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\bin\Debug\netstandard2.0\PhoneFeatures.dll
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\bin\Debug\netstandard2.0\PhoneFeatures.pdb
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\obj\Debug\netstandard2.0\PhoneFeatures.csprojAssemblyReference.cache
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\obj\Debug\netstandard2.0\PhoneFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\obj\Debug\netstandard2.0\PhoneFeatures.AssemblyInfoInputs.cache
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\obj\Debug\netstandard2.0\PhoneFeatures.AssemblyInfo.cs
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\obj\Debug\netstandard2.0\PhoneFeatures.dll
+C:\Users\Johachim\Documents\GamesUnity\Xamarin\PhoneFeatures\PhoneFeatures\PhoneFeatures\obj\Debug\netstandard2.0\PhoneFeatures.pdb
